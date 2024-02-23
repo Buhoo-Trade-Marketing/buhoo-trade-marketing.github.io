@@ -152,8 +152,8 @@ blockquote{
 }
 .logo-scroll{
 	position: relative !important;
-	top: -55px !important;
-	width: 50% !important;
+	top: -40px !important;
+	width: 40% !important;
 }
 .menu-scroll{
 	position: relative;
@@ -176,8 +176,8 @@ blockquote{
 }
 .navbar-brand img{
 	position: relative;
-	top: -55px;
-	width: 100%;
+	top: -30px;
+	width: 60%;
 }
 .navbar{
 	padding: 2%;

@@ -217,7 +217,7 @@ padding-left: 10%;
 /*HEADER*/
 .navbar-brand img {
     position: absolute;
-    top: 0px;
+    top: 10px;
     width: 50%;
 }
 /*HEADER*/
